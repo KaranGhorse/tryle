@@ -135,12 +135,11 @@ body,html{
 .social .tw:hover{
     box-shadow:0 0 18px 8px rgb(0, 110, 255);
 }
-
-/* 
+ 
 
 
 @media (max-width: 500px) {
     .social i{
-        font-size: 18px;
+        font-size: 28px;
     }
-} */
+}
